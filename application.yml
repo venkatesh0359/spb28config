@@ -16,3 +16,11 @@ spring:
     password: root123
     driver-class-name: com.mysql.cj.jdbc.Driver
 
+
+
+#springboot question 28
+#server acess url-
+#http://localhost:8888/application/default
+#to refresh dat in browser ...you need to send post request to the below url after making chanes in github
+#--http://localhost:8080/actuator/refresh
+
